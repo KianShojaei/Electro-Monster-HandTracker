@@ -13,7 +13,7 @@ This project utilizes Python, Pygame, and mathematical animations to create an *
 
 Watch the electric monster in action:
 
-
+![Demo Video](demo-video.gif)
 
 ## Installation
 
